@@ -1,3 +1,4 @@
+--add question 9 and 10 please
 -- 1. What is the total amount each customer spent at the restaurant?
 Select customer_id, sum(price) as total_amount
 from sales s
